@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yiwu.conf.SmsAutoConfigure,\
+  com.yiwu.conf.WebLogAutoConfigure

@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "yiwu.sms",
+      "type": "com.yiwu.prop.SmsProperties",
+      "sourceType": "com.yiwu.prop.SmsProperties"
+    },
+    {
+      "name": "yiwu.weblog",
+      "type": "com.yiwu.prop.WebLogProperties",
+      "sourceType": "com.yiwu.prop.WebLogProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yiwu.sms.access-id",
+      "type": "java.lang.String",
+      "sourceType": "com.yiwu.prop.SmsProperties"
+    },
+    {
+      "name": "yiwu.sms.access-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.yiwu.prop.SmsProperties"
+    },
+    {
+      "name": "yiwu.weblog.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.yiwu.prop.WebLogProperties"
+    }
+  ],
+  "hints": []
+}
